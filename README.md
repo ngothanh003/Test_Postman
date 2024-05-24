@@ -1,0 +1,1 @@
+Báo cáo kết quả test Postman Collection URL: https://randomuser.me/api/?gender=female
